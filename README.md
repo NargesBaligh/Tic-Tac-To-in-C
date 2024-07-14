@@ -1,6 +1,10 @@
 # Tic-Tac-Toe Game in C
 This is a text-based implementation of the classic Tic-Tac-Toe game in C. Players can compete against each other, and the second player is simulated by the system making random moves.
 
+
+![image](https://github.com/user-attachments/assets/d33f09fa-700e-4da7-b7b6-c7469d2f1f86)
+
+
 # Features
 Players take turns entering their moves ('X' for Player 1 and 'O' for the system).
 After each move, the screen is cleared to display the updated board.
